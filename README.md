@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowninja38)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellowninja38&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellowninja38&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-hi
+<h1>Ashes</h1>
+
+<p>Hi, my name is Enrico Zangari. I am a Brazilian developer for fun. This website is just to keep track of things I have learned over the years. I have developed a great taste for technology, and I believe a website like this allows me to share all of those things with whoever is reading.</p>
+
+<p>I am a great supporter of open source, which is why I am on platforms such as GitHub 🥳</p>
+
+
