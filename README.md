@@ -24,4 +24,13 @@ Here are some ideas to get you started:
 
 <p>I am a great supporter of open source, which is why I am on platforms such as GitHub 🥳</p>
 
+- 🔭 I’m currently working on Game Off.
+- 🌱 I’m currently learning Unity.
+- 👯 I’m looking to collaborate on anything.
+- 🤔 I’m looking for help with Unity and game development.
+- 💬 Ask me about Linux
+- 📫 How to reach me: enrico.r.zangari@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: GitHub was founded in April, 2008.
+
 
