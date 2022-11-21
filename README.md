@@ -3,7 +3,7 @@
 
 # Ashes
 
-Hi, my name is Enrico Zangari. I am a Brazilian developer for fun. This website is just to keep track of things I have learned over the years. I have developed a great taste for technology, and I believe a website like this allows me to share all of those things with whoever is reading.
+Hi, my name is Enrico Zangari. I am a Brazilian freelancer. I have developed a great taste for technology over the years and GitHub helps me keep track of my projects.
 
 I am a great supporter of open source, which is why I am on platforms such as GitHub 🥳</p>
 
