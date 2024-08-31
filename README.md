@@ -3,9 +3,7 @@
 
 # Ricoz
 
-Hi, my name is Enrico Zangari. I am a Brazilian freelancer. I have developed a great taste for technology over the years and GitHub helps me keep track of my projects.
-
-I am a great supporter of open source, which is why I am on platforms such as GitHub 🥳</p>
+Hi, my name is Enrico Zangari.
 
 - 🔭 I’m currently working on projects.
 - 🌱 I’m currently learning Unity.
